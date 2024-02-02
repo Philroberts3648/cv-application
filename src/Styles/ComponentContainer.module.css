@@ -1,0 +1,11 @@
+.div {
+    border: 1px solid blue;
+    width: 85vw;
+    height: auto;
+    display: flex;
+    align-item: center;
+    justify-content: center;
+    padding: 20px;
+
+
+}
